@@ -42,7 +42,7 @@ function draw() {
 
   drawSprites();
 
-  fill(37, 247, 58);
+  fill("BLACK");
   stroke("black");
   strokeWeight(2);
   textSize(50);
